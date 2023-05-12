@@ -1,6 +1,6 @@
 # OpenCore-0.9.2-Haswell-Xeon-Nvidia-Pascal-EFI-Folder
 
-EFI File For Haswell Xeons using Z87 board
+EFI File For Haswell Xeons using Z87 board and Nvidia Pascal GPUs
 
 Tested for High Sierra 10.13.6
 
